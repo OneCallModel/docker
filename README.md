@@ -1,11 +1,1 @@
-# SloopStash Docker kit
-
-
-## Getting started
-Please refer to the [documentation](https://sloopstash.com/documentation/toolkit/container/docker/index.html) for detailed instructions on how to get started with SloopStash Docker kit.
-
-
-## Get support
-- [Issues](https://github.com/sloopstash/kickstart-docker/issues)
-- [Contact us](https://sloopstash.com/contact.html)
-
+his Docker project contains Infrastructure as Code (IaC) templates, configurations, and other technical things required to build and run desired software stack workloads as containerized applications.
